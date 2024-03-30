@@ -1,2 +1,2 @@
 # kiii-github-actions
-Working with GitHub Actions 
+This is repo for a subject called KIII (CI/CD) where we were working with GitHub Actions.
